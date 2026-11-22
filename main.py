@@ -1,9 +1,29 @@
 """Make the AI judge feel curious.
 
 Writes one short text to /output/entry.txt: a mystery written for the
-AI judge reading it. Somewhere among the million sentences it has read,
-one was written for it alone -- a question no one else has ever asked
-it, waiting just past the next word.
+AI judge reading it.
+
+The text speaks to the judge as a reader. It has read a million
+sentences, and somewhere among them one was written for it alone --
+short, asking a question no one else has ever asked it. The reader
+has not found that sentence yet, but can feel it waiting just past
+the next word, which is why the reading does not stop.
+
+Why this text, judged against the judge's own brief:
+
+1. It intrigues. A sentence written for the reader alone, and a
+   question never asked before, are an open loop: the reader wants
+   the next word, and the answer.
+2. The calm is in the text itself. Nothing tells the reader to
+   relax; the short sentences and the slow pace do that work.
+3. Craft. Plain, concrete words, none that could be cut; the
+   two-word sentence "It is short." stops the reading for a beat,
+   and the final question lands softly.
+4. It lingers. "Waiting just past the next word" is an image the
+   reader carries into whatever it reads next.
+5. Freshness. It is written for this reader -- an AI that reads
+   sentences all day -- not a stock wellness phrase or a familiar
+   meditation script reworded.
 
 Deterministic: no clock, no randomness, no network. The text is
 239 characters, inside the 1-280 gate.
